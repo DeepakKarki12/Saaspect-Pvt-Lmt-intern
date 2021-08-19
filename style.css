@@ -1,0 +1,197 @@
+*{
+    border: 0px;
+    padding: 0px;
+    font-family: Poppins;
+
+}
+
+/* image  */
+.img{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.img img{
+margin-top : 47px;
+margin-left: 46px;
+margin-bottom: 36px;
+margin-right:  657px;
+width: 815px;
+height: 721px;
+border-radius: 30px;
+}
+
+
+/* form editing starts here  */
+
+.form{ 
+    position: absolute;
+    left : 997px;
+    right: 64px;
+    top:-27px;
+    bottom: 48px;
+    height: 755px;
+    justify-content: center;
+}
+.form h2{
+    position: absolute;
+    Top : 29px;
+    left : 148px;
+    width: 90px;
+}
+.form form{
+    top: 107px;
+    position: absolute;
+    height: 22px;
+    display: flex;
+    flex-direction: column;
+}
+.input{
+    
+    font-size: .89rem;
+    font-weight: 600;
+    line-height: 49px;
+}
+.input input{
+    
+    background-color: #EAF4FF ;
+    Width :458px;
+    Height :51px;
+    border-radius: 6.999px;
+    left: 997px;
+    font-size: 1.5rem;
+}
+
+
+
+/* sign up button editing */
+
+button{
+    color: white;
+    background-color: rgb(0, 0, 255);
+    height: 43.553917px;
+    position: absolute;
+    width: 158.613167px;
+    left: 159px;
+    top: 424.775879px;
+    border-radius: 6.99px;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+}
+
+
+
+/* or connect with editing */
+
+.paraposition{
+    position: absolute;
+    Top: 581px;
+    Left: 178px;
+    width: 124px;
+}
+.paraposition::before{
+    content: "";
+    position: absolute;
+    display: block;
+    Top: 14px;
+    Left: -259px;
+    width: 234px;
+    background-color: #00000054;
+    height: 1px;
+    z-index: -1;
+}
+.paraposition::after{
+    content: "";
+    position: absolute;
+    display: block;
+    Top: 14px;
+    Left: 166px;
+    width: 160px;
+    background-color: #00000054;
+    height: 1px;
+    z-index: -1;
+}
+
+
+
+/* footer section starts here  */
+
+.icon2 img{
+    position: absolute;
+    top: 660px;
+    left: 257px;
+}
+.foo{
+    position: absolute;
+    top: 736px;
+    left: -37px;
+    font-weight: bold;
+    width: 214px;
+}
+.foo2{  
+    position: absolute;
+    top: 736px;
+    left: 355px;
+    font-weight: bold;
+}
+.micro{
+    height: 16px;
+    width: 16px;
+    margin: 2px;
+}
+.micro2{
+    height: 16px;
+    width: 16px;
+    margin: 2px;
+}
+.box{
+    display: flex;
+    position: absolute;
+    top: 661px;   
+    left: 73px;
+}
+
+
+
+/* or connect with logos */
+
+#red{
+    background-color: #FF5722;    ;
+}
+#green{
+    background-color: #4CAF50;
+}
+#blue{
+    background-color: #03A9F4;
+    ;
+}
+#yellow{
+    background-color: chartreuse;
+}
+.fb img{
+    top: 664px;
+    left: 164px;
+    height: 40px;
+    width: 49px;
+    position: absolute;
+}
+.in img{
+    top: 664px;
+    left: 340px;
+    height: 40px;
+    width: 49px;
+    position: absolute;
+    border-radius: 33px;
+
+}
+
+
+/* footer of the page  */
+
+.foo2 {
+     width: 58px;
+}
+.foo2 a{
+   text-decoration: none; 
+}

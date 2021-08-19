@@ -1,0 +1,13 @@
+.img img{
+    display: none;
+
+}
+.form{
+position: absolute;
+width: 489px;
+display: block;
+left: 84px;
+}
+.foo2{
+    color: blue;
+}
